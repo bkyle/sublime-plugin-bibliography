@@ -1,0 +1,15 @@
+{
+	"schema_version": "3.0.0",
+	"packages": [
+		{
+			"name": "Bibliography",
+			"details": "https://github.com/bkyle/sublime-plugin-bibliography",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		}
+	]
+}
